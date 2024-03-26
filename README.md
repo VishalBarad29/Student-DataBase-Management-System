@@ -1,1 +1,2 @@
 # Student-DataBase-Management-System
+This project is a Student Database Management System (SDMS) implemented in Python using PyQt5 and SQLite. It allows users to add, search, and delete student records. The system provides functionalities to manage student details such as roll number, name, department, year, and enrolled courses. Additionally, it includes features like login authentication and graphical user interface (GUI) for ease of use.
